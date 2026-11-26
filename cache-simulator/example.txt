@@ -1,0 +1,12 @@
+# Fill the cache, revisit address 0, then evict dirty address 1.
+R 0
+W 42 1
+R 2
+R 3
+R 4
+R 5
+R 6
+R 7
+R 0
+R 8
+R 1
