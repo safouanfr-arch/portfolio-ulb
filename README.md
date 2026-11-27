@@ -11,3 +11,5 @@ Selected work from my computer science studies at the Universite libre de Bruxel
 | [Course Exercises](exercises/) | POSIX pipes, threads, Python algorithms, and a Logisim circuit |
 
 Each directory includes its own run instructions. The READMEs identify the original coursework, collaborators or teaching material where relevant, and the changes made for this edition.
+
+The Linux workflow runs the existing cache, maze, chatroom and JPEG tests and compiles the standalone POSIX exercises. The maze tests cover game logic without a graphical display. [Lab CI workflow](.github/workflows/ci.yml)
