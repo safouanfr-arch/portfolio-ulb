@@ -1,5 +1,7 @@
 # ULB Programming Portfolio
 
+[![Lab CI](https://github.com/safouanfr-arch/portfolio-ulb/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/safouanfr-arch/portfolio-ulb/actions/workflows/ci.yml)
+
 Selected work from my computer science studies at the Universite libre de Bruxelles, with instructions and small demos for running it today.
 
 | Project | What it shows |
